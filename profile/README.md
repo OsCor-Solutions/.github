@@ -1,21 +1,24 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/osesco/.github/main/profile/logo.png" alt="OsesCo Logo" width="180"/>
+  <img src="https://raw.githubusercontent.com/osesco/.github/main/profile/logo.png" alt="OsCor Solutions Logo" width="180"/>
 
-  # OsesCo Brothers & Company
+  # OsCor Solutions
 
-  **Building AI-powered tools for Latin American businesses**
+  **Tecnología de empresa grande. Precio y trato de empresa familiar.**
+
+  *by Oses Coronado Hermanos & Compañía*
 
   ---
 
-  We design and build SaaS products that help small and medium businesses in Latin America compete with the tools that were previously only available to large enterprises.
+  Automatizamos la atención al cliente y los procesos de las PYMEs de Latinoamérica con inteligencia artificial —
+  para que el dueño pueda enfocarse en hacer crecer su negocio, no en responder chats a medianoche.
 
   ---
 
   ### What we're building
 
-  | Project | Description | Status |
+  | Proyecto | Descripción | Estado |
   |---|---|---|
-  | [pyme-agent](https://github.com/osesco/pyme-agent) | AI conversational agents for SMB customer service on WhatsApp | 🚧 MVP |
+  | [MAIA](https://github.com/osesco/maia) | Mensajería Automatizada con Inteligencia Artificial — agente conversacional de IA para atención al cliente en WhatsApp y Telegram | 🚧 MVP |
 
   ---
 
@@ -23,11 +26,15 @@
 
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+  ![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-  ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+  ![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
   ---
 
-  *Latin America · Est. 2025*
+  *Costa Rica · Latinoamérica · Est. 2025*
+
 </div>
